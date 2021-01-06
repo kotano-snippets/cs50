@@ -1,0 +1,3 @@
+[submodule "pset8/finance"]
+	path = pset8/finance
+	url = https://github.com/kotano-snippets/cs50-finance
