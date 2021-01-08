@@ -1,3 +1,7 @@
 [submodule "pset8/finance"]
 	path = pset8/finance
 	url = https://github.com/kotano-snippets/cs50-finance
+
+[submodule "pset5/speller"]
+	path = pset5/speller
+	url = https://github.com/kotano-snippets/cs50-speller
